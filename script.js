@@ -38,5 +38,7 @@ function addTask() {
 
     taskList.appendChild(listItem);
 
-    taskInput.value = ''; // Clear input field
+
+   // Clear input field 
+taskInput.value = ''; 
 }
