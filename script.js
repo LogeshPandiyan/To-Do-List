@@ -42,3 +42,4 @@ function addTask() {
    // Clear input field 
 taskInput.value = ''; 
 }
+
